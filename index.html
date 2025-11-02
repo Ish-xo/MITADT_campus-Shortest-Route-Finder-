@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MIT ADT Campus Navigator</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    <link
+      href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="css/styles.css" />
+  </head>
+  <body class="bg-light">
+    <div class="container py-4">
+      <h1 class="text-center mb-4 animate__animated animate__fadeIn">
+        MIT ADT Campus Navigator
+      </h1>
+
+      <div
+        class="controls bg-white p-4 rounded shadow-sm mb-4 animate__animated animate__fadeIn"
+      >
+        <div class="row mb-3">
+          <div class="col-md-6 mb-3 mb-md-0">
+            <select
+              id="start-select"
+              class="form-select"
+              aria-label="Select start location"
+            >
+              <option value="">Select Start Location</option>
+            </select>
+          </div>
+          <div class="col-md-6">
+            <select
+              id="end-select"
+              class="form-select"
+              aria-label="Select end location"
+            >
+              <option value="">Select End Location</option>
+            </select>
+          </div>
+        </div>
+        <div class="d-flex justify-content-center gap-3">
+          <button
+            id="find-path"
+            type="button"
+            class="btn btn-primary animate__animated animate__pulse"
+          >
+            Find Path
+          </button>
+          <button id="clear-path" type="button" class="btn btn-danger">
+            Clear Path
+          </button>
+        </div>
+      </div>
+
+      <div
+        class="map-container bg-white p-3 rounded shadow-sm animate__animated animate__fadeIn"
+      >
+        <img
+          src="mit_map_sketch.png"
+          alt="MIT ADT Campus Map"
+          id="campus-map"
+          class="img-fluid"
+        />
+        <svg id="map-overlay"></svg>
+      </div>
+
+      <div
+        id="path-info"
+        class="hidden bg-white p-4 rounded shadow-sm mt-4 animate__animated animate__fadeIn"
+      >
+        <div id="distance" class="h5 mb-3 text-primary"></div>
+        <div id="path-sequence" class="text-muted"></div>
+      </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="js/graph.js"></script>
+    <script src="js/main.js"></script>
+  </body>
+</html>

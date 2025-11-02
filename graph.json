@@ -1,0 +1,2129 @@
+{
+    "nodes": [
+        {
+            "id": "it_building",
+            "name": "IT Building",
+            "x": 95,
+            "y": 350,
+            "aliases": [
+                "IT Tower",
+                "School of Computing",
+                "School of Engineering",
+                "College of Management"
+            ]
+        },
+        {
+            "id": "nsq_hostel",
+            "name": "NSQ Girls Hostel",
+            "x": 165,
+            "y": 134,
+            "aliases": []
+        },
+        {
+            "id": "utk_auditorium",
+            "name": "Urmila Tai Karad Auditorium",
+            "x": 235,
+            "y": 185,
+            "aliases": []
+        },
+        {
+            "id": "vajraged_hostel",
+            "name": "Vajragad Girls Hostel",
+            "x": 250,
+            "y": 230,
+            "aliases": []
+        },
+        {
+            "id": "iod_1",
+            "name": "MBA in Innovation & Entrepreneurship",
+            "x": 300,
+            "y": 220,
+            "aliases": []
+        },
+        {
+            "id": "sofa",
+            "name": "School of Fine Arts",
+            "x": 315,
+            "y": 365,
+            "aliases": [
+                "SOFA Mess"
+            ]
+        },
+        {
+            "id": "rk_restaurant",
+            "name": "R.K. Restaurant",
+            "x": 403,
+            "y": 550,
+            "aliases": []
+        },
+        {
+            "id": "isbj",
+            "name": "School of Film & Theatre",
+            "x": 380,
+            "y": 170,
+            "aliases": [
+                "AIC Incubator",
+                "International School of Broadcasting",
+                "School of Bioengineering"
+            ]
+        },
+        {
+            "id": "iod",
+            "name": "Institute of Design",
+            "x": 380,
+            "y": 245,
+            "aliases": [
+                "School of Architecture",
+                "School of Engineering & Sciences",
+                "Department of Planning"
+            ]
+        },
+        {
+            "id": "tuck_shop_ground",
+            "name": "Tuck Shop Ground",
+            "x": 430,
+            "y": 405,
+            "aliases": [
+                "Swami Vivekanada Mandapam"
+            ]
+        },
+        {
+            "id": "ajinkyatara_hostel",
+            "name": "Ajinkyatara Boys Hostel",
+            "x": 450,
+            "y": 545,
+            "aliases": []
+        },
+        {
+            "id": "soft",
+            "name": "School of Food Technology",
+            "x": 500,
+            "y": 580,
+            "aliases": [
+                "Royal Mess",
+                "MANET Mess"
+            ]
+        },
+        {
+            "id": "canteen",
+            "name": "Tuck Shop",
+            "x": 505,
+            "y": 380,
+            "aliases": []
+        },
+        {
+            "id": "sangeet_kala_academy",
+            "name": "Vishwashanti Sangeet Kala Acedemy ",
+            "x": 510,
+            "y": 295,
+            "aliases": []
+        },
+        {
+            "id": "hostel_office",
+            "name": "Hostel Office",
+            "x": 525,
+            "y": 390,
+            "aliases": [
+                "MIT Admission Cell"
+            ]
+        },
+        {
+            "id": "vijaydurg_hostel",
+            "name": "Vijaydurg Hostel",
+            "x": 550,
+            "y": 600,
+            "aliases": [
+                "MANET Hostel"
+            ]
+        },
+        {
+            "id": "manet_basketball_court",
+            "name": "MANET Bakestball Court",
+            "x": 596,
+            "y": 605,
+            "aliases": []
+        },
+        {
+            "id": "manet",
+            "name": "MANET",
+            "x": 647,
+            "y": 660,
+            "aliases": []
+        },
+        {
+            "id": "raj_auditorium",
+            "name": "Raj Auditorium",
+            "x": 665,
+            "y": 362,
+            "aliases": []
+        },
+        {
+            "id": "sovs",
+            "name": "School of Vedic Sciences",
+            "x": 705,
+            "y": 390,
+            "aliases": []
+        },
+        {
+            "id": "gurukul",
+            "name": "MIT Vishwashnti Gurukul",
+            "x": 704,
+            "y": 490,
+            "aliases": []
+        },
+        {
+            "id": "main_gate",
+            "name": "Main Gate",
+            "x": 778,
+            "y": 770,
+            "aliases": []
+        },
+        {
+            "id": "dome",
+            "name": "World Peace Dome",
+            "x": 794,
+            "y": 473,
+            "aliases": []
+        },
+        {
+            "id": "cerebrospark_academy",
+            "name": "Cerebrospark Academy",
+            "x": 804,
+            "y": 360,
+            "aliases": []
+        },
+        {
+            "id": "boat_club",
+            "name": "Boat Club",
+            "x": 810,
+            "y": 300,
+            "aliases": [
+                "Rowing Club"
+            ]
+        },
+        {
+            "id": "raj_mess",
+            "name": "Raj Mess",
+            "x": 850,
+            "y": 310,
+            "aliases": []
+        },
+        {
+            "id": "sport_complex",
+            "name": "Sports Complex",
+            "x": 1100,
+            "y": 565,
+            "aliases": [
+                "Swimming Pool",
+                "MIT Basketball Court",
+                "Circket Ground"
+            ]
+        },
+        {
+            "id": "staff_quarters",
+            "name": "Staff Quarters",
+            "x": 1160,
+            "y": 538,
+            "aliases": []
+        },
+        {
+            "id": "junior_college",
+            "name": "MIT Junior College",
+            "x": 1245,
+            "y": 600,
+            "aliases": []
+        }
+    ],
+    "edges": [
+        {
+            "source": "ajinkyatara_hostel",
+            "target": "boat_club",
+            "distance": 500
+        },
+        {
+            "source": "ajinkyatara_hostel",
+            "target": "canteen",
+            "distance": 200
+        },
+        {
+            "source": "ajinkyatara_hostel",
+            "target": "cerebrospark_academy",
+            "distance": 500
+        },
+        {
+            "source": "ajinkyatara_hostel",
+            "target": "dome",
+            "distance": 550
+        },
+        {
+            "source": "ajinkyatara_hostel",
+            "target": "gurukul",
+            "distance": 500
+        },
+        {
+            "source": "ajinkyatara_hostel",
+            "target": "hostel_office",
+            "distance": 300
+        },
+        {
+            "source": "ajinkyatara_hostel",
+            "target": "iod",
+            "distance": 450
+        },
+        {
+            "source": "ajinkyatara_hostel",
+            "target": "iod_1",
+            "distance": 500
+        },
+        {
+            "source": "ajinkyatara_hostel",
+            "target": "isbj",
+            "distance": 400
+        },
+        {
+            "source": "ajinkyatara_hostel",
+            "target": "it_building",
+            "distance": 600
+        },
+        {
+            "source": "ajinkyatara_hostel",
+            "target": "junior_college",
+            "distance": 1000
+        },
+        {
+            "source": "ajinkyatara_hostel",
+            "target": "main_gate",
+            "distance": 450
+        },
+        {
+            "source": "ajinkyatara_hostel",
+            "target": "manet",
+            "distance": 260
+        },
+        {
+            "source": "ajinkyatara_hostel",
+            "target": "manet_basketball_court",
+            "distance": 190
+        },
+        {
+            "source": "ajinkyatara_hostel",
+            "target": "nsq_hostel",
+            "distance": 700
+        },
+        {
+            "source": "ajinkyatara_hostel",
+            "target": "raj_auditorium",
+            "distance": 270
+        },
+        {
+            "source": "ajinkyatara_hostel",
+            "target": "raj_mess",
+            "distance": 550
+        },
+        {
+            "source": "ajinkyatara_hostel",
+            "target": "rk_restaurant",
+            "distance": 200
+        },
+        {
+            "source": "ajinkyatara_hostel",
+            "target": "sangeent_kala_academy",
+            "distance": 300
+        },
+        {
+            "source": "ajinkyatara_hostel",
+            "target": "sofa",
+            "distance": 310
+        },
+        {
+            "source": "ajinkyatara_hostel",
+            "target": "sovs",
+            "distance": 400
+        },
+        {
+            "source": "ajinkyatara_hostel",
+            "target": "sport_complex",
+            "distance": 750
+        },
+        {
+            "source": "ajinkyatara_hostel",
+            "target": "staff_quarters",
+            "distance": 750
+        },
+        {
+            "source": "ajinkyatara_hostel",
+            "target": "tuck_shop_ground",
+            "distance": 130
+        },
+        {
+            "source": "ajinkyatara_hostel",
+            "target": "utk_auditorium",
+            "distance": 600
+        },
+        {
+            "source": "ajinkyatara_hostel",
+            "target": "vajraged_hostel",
+            "distance": 400
+        },
+        {
+            "source": "ajinkyatara_hostel",
+            "target": "vijaydurg_hostel",
+            "distance": 110
+        },
+        {
+            "source": "boat_club",
+            "target": "canteen",
+            "distance": 400
+        },
+        {
+            "source": "boat_club",
+            "target": "cerebrospark_academy",
+            "distance": 240
+        },
+        {
+            "source": "boat_club",
+            "target": "dome",
+            "distance": 300
+        },
+        {
+            "source": "boat_club",
+            "target": "gurukul",
+            "distance": 350
+        },
+        {
+            "source": "boat_club",
+            "target": "hostel_office",
+            "distance": 400
+        },
+        {
+            "source": "boat_club",
+            "target": "iod",
+            "distance": 500
+        },
+        {
+            "source": "boat_club",
+            "target": "iod_1",
+            "distance": 550
+        },
+        {
+            "source": "boat_club",
+            "target": "isbj",
+            "distance": 400
+        },
+        {
+            "source": "boat_club",
+            "target": "it_building",
+            "distance": 800
+        },
+        {
+            "source": "boat_club",
+            "target": "junior_college",
+            "distance": 650
+        },
+        {
+            "source": "boat_club",
+            "target": "main_gate",
+            "distance": 700
+        },
+        {
+            "source": "boat_club",
+            "target": "manet",
+            "distance": 750
+        },
+        {
+            "source": "boat_club",
+            "target": "manet_basketball_court",
+            "distance": 650
+        },
+        {
+            "source": "boat_club",
+            "target": "nsq_hostel",
+            "distance": 950
+        },
+        {
+            "source": "boat_club",
+            "target": "raj_auditorium",
+            "distance": 250
+        },
+        {
+            "source": "boat_club",
+            "target": "raj_mess",
+            "distance": 33
+        },
+        {
+            "source": "boat_club",
+            "target": "rk_restaurant",
+            "distance": 650
+        },
+        {
+            "source": "boat_club",
+            "target": "sangeent_kala_academy",
+            "distance": 290
+        },
+        {
+            "source": "boat_club",
+            "target": "sofa",
+            "distance": 575
+        },
+        {
+            "source": "boat_club",
+            "target": "sovs",
+            "distance": 230
+        },
+        {
+            "source": "boat_club",
+            "target": "sport_complex",
+            "distance": 500
+        },
+        {
+            "source": "boat_club",
+            "target": "staff_quarters",
+            "distance": 490
+        },
+        {
+            "source": "boat_club",
+            "target": "tuck_shop_ground",
+            "distance": 410
+        },
+        {
+            "source": "boat_club",
+            "target": "utk_auditorium",
+            "distance": 850
+        },
+        {
+            "source": "boat_club",
+            "target": "vajraged_hostel",
+            "distance": 650
+        },
+        {
+            "source": "boat_club",
+            "target": "vijaydurg_hostel",
+            "distance": 600
+        },
+        {
+            "source": "canteen",
+            "target": "cerebrospark_academy",
+            "distance": 450
+        },
+        {
+            "source": "canteen",
+            "target": "dome",
+            "distance": 500
+        },
+        {
+            "source": "canteen",
+            "target": "gurukul",
+            "distance": 500
+        },
+        {
+            "source": "canteen",
+            "target": "hostel_office",
+            "distance": 26
+        },
+        {
+            "source": "canteen",
+            "target": "iod",
+            "distance": 250
+        },
+        {
+            "source": "canteen",
+            "target": "iod_1",
+            "distance": 350
+        },
+        {
+            "source": "canteen",
+            "target": "isbj",
+            "distance": 250
+        },
+        {
+            "source": "canteen",
+            "target": "it_building",
+            "distance": 450
+        },
+        {
+            "source": "canteen",
+            "target": "junior_college",
+            "distance": 1000
+        },
+        {
+            "source": "canteen",
+            "target": "main_gate",
+            "distance": 550
+        },
+        {
+            "source": "canteen",
+            "target": "manet",
+            "distance": 350
+        },
+        {
+            "source": "canteen",
+            "target": "manet_basketball_court",
+            "distance": 300
+        },
+        {
+            "source": "canteen",
+            "target": "nsq_hostel",
+            "distance": 550
+        },
+        {
+            "source": "canteen",
+            "target": "raj_auditorium",
+            "distance": 210
+        },
+        {
+            "source": "canteen",
+            "target": "raj_mess",
+            "distance": 450
+        },
+        {
+            "source": "canteen",
+            "target": "rk_restaurant",
+            "distance": 250
+        },
+        {
+            "source": "canteen",
+            "target": "sangeent_kala_academy",
+            "distance": 170
+        },
+        {
+            "source": "canteen",
+            "target": "sofa",
+            "distance": 190
+        },
+        {
+            "source": "canteen",
+            "target": "sovs",
+            "distance": 400
+        },
+        {
+            "source": "canteen",
+            "target": "sport_complex",
+            "distance": 850
+        },
+        {
+            "source": "canteen",
+            "target": "staff_quarters",
+            "distance": 840
+        },
+        {
+            "source": "canteen",
+            "target": "tuck_shop_ground",
+            "distance": 15
+        },
+        {
+            "source": "canteen",
+            "target": "utk_auditorium",
+            "distance": 350
+        },
+        {
+            "source": "canteen",
+            "target": "vajraged_hostel",
+            "distance": 280
+        },
+        {
+            "source": "canteen",
+            "target": "vijaydurg_hostel",
+            "distance": 250
+        },
+        {
+            "source": "cerebrospark_academy",
+            "target": "dome",
+            "distance": 160
+        },
+        {
+            "source": "cerebrospark_academy",
+            "target": "gurukul",
+            "distance": 220
+        },
+        {
+            "source": "cerebrospark_academy",
+            "target": "hostel_office",
+            "distance": 400
+        },
+        {
+            "source": "cerebrospark_academy",
+            "target": "iod",
+            "distance": 600
+        },
+        {
+            "source": "cerebrospark_academy",
+            "target": "iod_1",
+            "distance": 650
+        },
+        {
+            "source": "cerebrospark_academy",
+            "target": "isbj",
+            "distance": 500
+        },
+        {
+            "source": "cerebrospark_academy",
+            "target": "it_building",
+            "distance": 850
+        },
+        {
+            "source": "cerebrospark_academy",
+            "target": "junior_college",
+            "distance": 650
+        },
+        {
+            "source": "cerebrospark_academy",
+            "target": "main_gate",
+            "distance": 600
+        },
+        {
+            "source": "cerebrospark_academy",
+            "target": "manet",
+            "distance": 600
+        },
+        {
+            "source": "cerebrospark_academy",
+            "target": "manet_basketball_court",
+            "distance": 550
+        },
+        {
+            "source": "cerebrospark_academy",
+            "target": "nsq_hostel",
+            "distance": 950
+        },
+        {
+            "source": "cerebrospark_academy",
+            "target": "raj_auditorium",
+            "distance": 210
+        },
+        {
+            "source": "cerebrospark_academy",
+            "target": "raj_mess",
+            "distance": 210
+        },
+        {
+            "source": "cerebrospark_academy",
+            "target": "rk_restaurant",
+            "distance": 600
+        },
+        {
+            "source": "cerebrospark_academy",
+            "target": "sangeent_kala_academy",
+            "distance": 350
+        },
+        {
+            "source": "cerebrospark_academy",
+            "target": "sofa",
+            "distance": 570
+        },
+        {
+            "source": "cerebrospark_academy",
+            "target": "sovs",
+            "distance": 120
+        },
+        {
+            "source": "cerebrospark_academy",
+            "target": "sport_complex",
+            "distance": 500
+        },
+        {
+            "source": "cerebrospark_academy",
+            "target": "staff_quarters",
+            "distance": 490
+        },
+        {
+            "source": "cerebrospark_academy",
+            "target": "tuck_shop_ground",
+            "distance": 500
+        },
+        {
+            "source": "cerebrospark_academy",
+            "target": "utk_auditorium",
+            "distance": 700
+        },
+        {
+            "source": "cerebrospark_academy",
+            "target": "vajraged_hostel",
+            "distance": 700
+        },
+        {
+            "source": "cerebrospark_academy",
+            "target": "vijaydurg_hostel",
+            "distance": 600
+        },
+        {
+            "source": "dome",
+            "target": "gurukul",
+            "distance": 110
+        },
+        {
+            "source": "dome",
+            "target": "hostel_office",
+            "distance": 450
+        },
+        {
+            "source": "dome",
+            "target": "iod",
+            "distance": 700
+        },
+        {
+            "source": "dome",
+            "target": "iod_1",
+            "distance": 750
+        },
+        {
+            "source": "dome",
+            "target": "isbj",
+            "distance": 550
+        },
+        {
+            "source": "dome",
+            "target": "it_building",
+            "distance": 900
+        },
+        {
+            "source": "dome",
+            "target": "junior_college",
+            "distance": 500
+        },
+        {
+            "source": "dome",
+            "target": "main_gate",
+            "distance": 450
+        },
+        {
+            "source": "dome",
+            "target": "manet",
+            "distance": 500
+        },
+        {
+            "source": "dome",
+            "target": "manet_basketball_court",
+            "distance": 450
+        },
+        {
+            "source": "dome",
+            "target": "nsq_hostel",
+            "distance": 1000
+        },
+        {
+            "source": "dome",
+            "target": "raj_auditorium",
+            "distance": 300
+        },
+        {
+            "source": "dome",
+            "target": "raj_mess",
+            "distance": 290
+        },
+        {
+            "source": "dome",
+            "target": "rk_restaurant",
+            "distance": 650
+        },
+        {
+            "source": "dome",
+            "target": "sangeent_kala_academy",
+            "distance": 450
+        },
+        {
+            "source": "dome",
+            "target": "sofa",
+            "distance": 670
+        },
+        {
+            "source": "dome",
+            "target": "sovs",
+            "distance": 150
+        },
+        {
+            "source": "dome",
+            "target": "sport_complex",
+            "distance": 350
+        },
+        {
+            "source": "dome",
+            "target": "staff_quarters",
+            "distance": 340
+        },
+        {
+            "source": "dome",
+            "target": "tuck_shop_ground",
+            "distance": 550
+        },
+        {
+            "source": "dome",
+            "target": "utk_auditorium",
+            "distance": 750
+        },
+        {
+            "source": "dome",
+            "target": "vajraged_hostel",
+            "distance": 750
+        },
+        {
+            "source": "dome",
+            "target": "vijaydurg_hostel",
+            "distance": 450
+        },
+        {
+            "source": "gurukul",
+            "target": "hostel_office",
+            "distance": 500
+        },
+        {
+            "source": "gurukul",
+            "target": "iod",
+            "distance": 700
+        },
+        {
+            "source": "gurukul",
+            "target": "iod_1",
+            "distance": 700
+        },
+        {
+            "source": "gurukul",
+            "target": "isbj",
+            "distance": 550
+        },
+        {
+            "source": "gurukul",
+            "target": "it_building",
+            "distance": 1000
+        },
+        {
+            "source": "gurukul",
+            "target": "junior_college",
+            "distance": 600
+        },
+        {
+            "source": "gurukul",
+            "target": "main_gate",
+            "distance": 350
+        },
+        {
+            "source": "gurukul",
+            "target": "manet",
+            "distance": 400
+        },
+        {
+            "source": "gurukul",
+            "target": "manet_basketball_court",
+            "distance": 350
+        },
+        {
+            "source": "gurukul",
+            "target": "nsq_hostel",
+            "distance": 1000
+        },
+        {
+            "source": "gurukul",
+            "target": "raj_auditorium",
+            "distance": 3000
+        },
+        {
+            "source": "gurukul",
+            "target": "raj_mess",
+            "distance": 290
+        },
+        {
+            "source": "gurukul",
+            "target": "rk_restaurant",
+            "distance": 600
+        },
+        {
+            "source": "gurukul",
+            "target": "sangeent_kala_academy",
+            "distance": 450
+        },
+        {
+            "source": "gurukul",
+            "target": "sofa",
+            "distance": 1100
+        },
+        {
+            "source": "gurukul",
+            "target": "sovs",
+            "distance": 140
+        },
+        {
+            "source": "gurukul",
+            "target": "sport_complex",
+            "distance": 450
+        },
+        {
+            "source": "gurukul",
+            "target": "staff_quarters",
+            "distance": 500
+        },
+        {
+            "source": "gurukul",
+            "target": "tuck_shop_ground",
+            "distance": 550
+        },
+        {
+            "source": "gurukul",
+            "target": "utk_auditorium",
+            "distance": 950
+        },
+        {
+            "source": "gurukul",
+            "target": "vajraged_hostel",
+            "distance": 750
+        },
+        {
+            "source": "gurukul",
+            "target": "vijaydurg_hostel",
+            "distance": 350
+        },
+        {
+            "source": "hostel_office",
+            "target": "iod",
+            "distance": 250
+        },
+        {
+            "source": "hostel_office",
+            "target": "iod_1",
+            "distance": 300
+        },
+        {
+            "source": "hostel_office",
+            "target": "isbj",
+            "distance": 240
+        },
+        {
+            "source": "hostel_office",
+            "target": "it_building",
+            "distance": 550
+        },
+        {
+            "source": "hostel_office",
+            "target": "junior_college",
+            "distance": 1000
+        },
+        {
+            "source": "hostel_office",
+            "target": "main_gate",
+            "distance": 600
+        },
+        {
+            "source": "hostel_office",
+            "target": "manet",
+            "distance": 400
+        },
+        {
+            "source": "hostel_office",
+            "target": "manet_basketball_court",
+            "distance": 300
+        },
+        {
+            "source": "hostel_office",
+            "target": "nsq_hostel",
+            "distance": 550
+        },
+        {
+            "source": "hostel_office",
+            "target": "raj_auditorium",
+            "distance": 190
+        },
+        {
+            "source": "hostel_office",
+            "target": "raj_mess",
+            "distance": 400
+        },
+        {
+            "source": "hostel_office",
+            "target": "rk_restaurant",
+            "distance": 250
+        },
+        {
+            "source": "hostel_office",
+            "target": "sangeent_kala_academy",
+            "distance": 140
+        },
+        {
+            "source": "hostel_office",
+            "target": "sofa",
+            "distance": 1100
+        },
+        {
+            "source": "hostel_office",
+            "target": "sovs",
+            "distance": 400
+        },
+        {
+            "source": "hostel_office",
+            "target": "sport_complex",
+            "distance": 850
+        },
+        {
+            "source": "hostel_office",
+            "target": "staff_quarters",
+            "distance": 850
+        },
+        {
+            "source": "hostel_office",
+            "target": "tuck_shop_ground",
+            "distance": 80
+        },
+        {
+            "source": "hostel_office",
+            "target": "utk_auditorium",
+            "distance": 450
+        },
+        {
+            "source": "hostel_office",
+            "target": "vajraged_hostel",
+            "distance": 280
+        },
+        {
+            "source": "hostel_office",
+            "target": "vijaydurg_hostel",
+            "distance": 270
+        },
+        {
+            "source": "iod",
+            "target": "iod_1",
+            "distance": 90
+        },
+        {
+            "source": "iod",
+            "target": "isbj",
+            "distance": 50
+        },
+        {
+            "source": "iod",
+            "target": "it_building",
+            "distance": 450
+        },
+        {
+            "source": "iod",
+            "target": "junior_college",
+            "distance": 1200
+        },
+        {
+            "source": "iod",
+            "target": "main_gate",
+            "distance": 800
+        },
+        {
+            "source": "iod",
+            "target": "manet",
+            "distance": 600
+        },
+        {
+            "source": "iod",
+            "target": "manet_basketball_court",
+            "distance": 550
+        },
+        {
+            "source": "iod",
+            "target": "nsq_hostel",
+            "distance": 400
+        },
+        {
+            "source": "iod",
+            "target": "raj_auditorium",
+            "distance": 450
+        },
+        {
+            "source": "iod",
+            "target": "raj_mess",
+            "distance": 550
+        },
+        {
+            "source": "iod",
+            "target": "rk_restaurant",
+            "distance": 400
+        },
+        {
+            "source": "iod",
+            "target": "sangeent_kala_academy",
+            "distance": 290
+        },
+        {
+            "source": "iod",
+            "target": "sofa",
+            "distance": 950
+        },
+        {
+            "source": "iod",
+            "target": "sovs",
+            "distance": 600
+        },
+        {
+            "source": "iod",
+            "target": "sport_complex",
+            "distance": 1000
+        },
+        {
+            "source": "iod",
+            "target": "staff_quarters",
+            "distance": 1000
+        },
+        {
+            "source": "iod",
+            "target": "tuck_shop_ground",
+            "distance": 240
+        },
+        {
+            "source": "iod",
+            "target": "utk_auditorium",
+            "distance": 350
+        },
+        {
+            "source": "iod",
+            "target": "vajraged_hostel",
+            "distance": 150
+        },
+        {
+            "source": "iod",
+            "target": "vijaydurg_hostel",
+            "distance": 500
+        },
+        {
+            "source": "iod_1",
+            "target": "isbj",
+            "distance": 80
+        },
+        {
+            "source": "iod_1",
+            "target": "it_building",
+            "distance": 400
+        },
+        {
+            "source": "iod_1",
+            "target": "junior_college",
+            "distance": 1200
+        },
+        {
+            "source": "iod_1",
+            "target": "main_gate",
+            "distance": 900
+        },
+        {
+            "source": "iod_1",
+            "target": "manet",
+            "distance": 700
+        },
+        {
+            "source": "iod_1",
+            "target": "manet_basketball_court",
+            "distance": 650
+        },
+        {
+            "source": "iod_1",
+            "target": "nsq_hostel",
+            "distance": 400
+        },
+        {
+            "source": "iod_1",
+            "target": "raj_auditorium",
+            "distance": 450
+        },
+        {
+            "source": "iod_1",
+            "target": "raj_mess",
+            "distance": 600
+        },
+        {
+            "source": "iod_1",
+            "target": "rk_restaurant",
+            "distance": 500
+        },
+        {
+            "source": "iod_1",
+            "target": "sangeent_kala_academy",
+            "distance": 300
+        },
+        {
+            "source": "iod_1",
+            "target": "sofa",
+            "distance": 900
+        },
+        {
+            "source": "iod_1",
+            "target": "sovs",
+            "distance": 600
+        },
+        {
+            "source": "iod_1",
+            "target": "sport_complex",
+            "distance": 1100
+        },
+        {
+            "source": "iod_1",
+            "target": "staff_quarters",
+            "distance": 1100
+        },
+        {
+            "source": "iod_1",
+            "target": "tuck_shop_ground",
+            "distance": 300
+        },
+        {
+            "source": "iod_1",
+            "target": "utk_auditorium",
+            "distance": 300
+        },
+        {
+            "source": "iod_1",
+            "target": "vajraged_hostel",
+            "distance": 110
+        },
+        {
+            "source": "iod_1",
+            "target": "vijaydurg_hostel",
+            "distance": 600
+        },
+        {
+            "source": "isbj",
+            "target": "it_building",
+            "distance": 500
+        },
+        {
+            "source": "isbj",
+            "target": "junior_college",
+            "distance": 1100
+        },
+        {
+            "source": "isbj",
+            "target": "main_gate",
+            "distance": 850
+        },
+        {
+            "source": "isbj",
+            "target": "manet",
+            "distance": 650
+        },
+        {
+            "source": "isbj",
+            "target": "manet_basketball_court",
+            "distance": 550
+        },
+        {
+            "source": "isbj",
+            "target": "nsq_hostel",
+            "distance": 450
+        },
+        {
+            "source": "isbj",
+            "target": "raj_auditorium",
+            "distance": 400
+        },
+        {
+            "source": "isbj",
+            "target": "raj_mess",
+            "distance": 500
+        },
+        {
+            "source": "isbj",
+            "target": "rk_restaurant",
+            "distance": 400
+        },
+        {
+            "source": "isbj",
+            "target": "sangeent_kala_academy",
+            "distance": 250
+        },
+        {
+            "source": "isbj",
+            "target": "sofa",
+            "distance": 950
+        },
+        {
+            "source": "isbj",
+            "target": "sovs",
+            "distance": 550
+        },
+        {
+            "source": "isbj",
+            "target": "sport_complex",
+            "distance": 1000
+        },
+        {
+            "source": "isbj",
+            "target": "staff_quarters",
+            "distance": 1000
+        },
+        {
+            "source": "isbj",
+            "target": "tuck_shop_ground",
+            "distance": 350
+        },
+        {
+            "source": "isbj",
+            "target": "utk_auditorium",
+            "distance": 350
+        },
+        {
+            "source": "isbj",
+            "target": "vajraged_hostel",
+            "distance": 190
+        },
+        {
+            "source": "isbj",
+            "target": "vijaydurg_hostel",
+            "distance": 500
+        },
+        {
+            "source": "it_building",
+            "target": "junior_college",
+            "distance": 1500
+        },
+        {
+            "source": "it_building",
+            "target": "main_gate",
+            "distance": 900
+        },
+        {
+            "source": "it_building",
+            "target": "manet",
+            "distance": 950
+        },
+        {
+            "source": "it_building",
+            "target": "manet_basketball_court",
+            "distance": 850
+        },
+        {
+            "source": "it_building",
+            "target": "nsq_hostel",
+            "distance": 450
+        },
+        {
+            "source": "it_building",
+            "target": "raj_auditorium",
+            "distance": 750
+        },
+        {
+            "source": "it_building",
+            "target": "raj_mess",
+            "distance": 1000
+        },
+        {
+            "source": "it_building",
+            "target": "rk_restaurant",
+            "distance": 700
+        },
+        {
+            "source": "it_building",
+            "target": "sangeent_kala_academy",
+            "distance": 700
+        },
+        {
+            "source": "it_building",
+            "target": "sofa",
+            "distance": 600
+        },
+        {
+            "source": "it_building",
+            "target": "sovs",
+            "distance": 950
+        },
+        {
+            "source": "it_building",
+            "target": "sport_complex",
+            "distance": 1400
+        },
+        {
+            "source": "it_building",
+            "target": "staff_quarters",
+            "distance": 1400
+        },
+        {
+            "source": "it_building",
+            "target": "tuck_shop_ground",
+            "distance": 550
+        },
+        {
+            "source": "it_building",
+            "target": "utk_auditorium",
+            "distance": 350
+        },
+        {
+            "source": "it_building",
+            "target": "vajraged_hostel",
+            "distance": 290
+        },
+        {
+            "source": "it_building",
+            "target": "vijaydurg_hostel",
+            "distance": 800
+        },
+        {
+            "source": "junior_college",
+            "target": "main_gate",
+            "distance": 750
+        },
+        {
+            "source": "junior_college",
+            "target": "manet",
+            "distance": 900
+        },
+        {
+            "source": "junior_college",
+            "target": "manet_basketball_court",
+            "distance": 800
+        },
+        {
+            "source": "junior_college",
+            "target": "nsq_hostel",
+            "distance": 1500
+        },
+        {
+            "source": "junior_college",
+            "target": "raj_auditorium",
+            "distance": 800
+        },
+        {
+            "source": "junior_college",
+            "target": "raj_mess",
+            "distance": 650
+        },
+        {
+            "source": "junior_college",
+            "target": "rk_restaurant",
+            "distance": 1100
+        },
+        {
+            "source": "junior_college",
+            "target": "sangeent_kala_academy",
+            "distance": 950
+        },
+        {
+            "source": "junior_college",
+            "target": "sofa",
+            "distance": 1500
+        },
+        {
+            "source": "junior_college",
+            "target": "sovs",
+            "distance": 650
+        },
+        {
+            "source": "junior_college",
+            "target": "sport_complex",
+            "distance": 180
+        },
+        {
+            "source": "junior_college",
+            "target": "staff_quarters",
+            "distance": 140
+        },
+        {
+            "source": "junior_college",
+            "target": "tuck_shop_ground",
+            "distance": 1100
+        },
+        {
+            "source": "junior_college",
+            "target": "utk_auditorium",
+            "distance": 1400
+        },
+        {
+            "source": "junior_college",
+            "target": "vajraged_hostel",
+            "distance": 1300
+        },
+        {
+            "source": "junior_college",
+            "target": "vijaydurg_hostel",
+            "distance": 850
+        },
+        {
+            "source": "main_gate",
+            "target": "manet",
+            "distance": 150
+        },
+        {
+            "source": "main_gate",
+            "target": "manet_basketball_court",
+            "distance": 300
+        },
+        {
+            "source": "main_gate",
+            "target": "nsq_hostel",
+            "distance": 1100
+        },
+        {
+            "source": "main_gate",
+            "target": "raj_auditorium",
+            "distance": 650
+        },
+        {
+            "source": "main_gate",
+            "target": "raj_mess",
+            "distance": 650
+        },
+        {
+            "source": "main_gate",
+            "target": "rk_restaurant",
+            "distance": 600
+        },
+        {
+            "source": "main_gate",
+            "target": "sangeent_kala_academy",
+            "distance": 700
+        },
+        {
+            "source": "main_gate",
+            "target": "sofa",
+            "distance": 800
+        },
+        {
+            "source": "main_gate",
+            "target": "sovs",
+            "distance": 500
+        },
+        {
+            "source": "main_gate",
+            "target": "sport_complex",
+            "distance": 600
+        },
+        {
+            "source": "main_gate",
+            "target": "staff_quarters",
+            "distance": 600
+        },
+        {
+            "source": "main_gate",
+            "target": "tuck_shop_ground",
+            "distance": 600
+        },
+        {
+            "source": "main_gate",
+            "target": "utk_auditorium",
+            "distance": 1000
+        },
+        {
+            "source": "main_gate",
+            "target": "vajraged_hostel",
+            "distance": 850
+        },
+        {
+            "source": "main_gate",
+            "target": "vijaydurg_hostel",
+            "distance": 350
+        },
+        {
+            "source": "manet",
+            "target": "manet_basketball_court",
+            "distance": 70
+        },
+        {
+            "source": "manet",
+            "target": "nsq_hostel",
+            "distance": 900
+        },
+        {
+            "source": "manet",
+            "target": "raj_auditorium",
+            "distance": 450
+        },
+        {
+            "source": "manet",
+            "target": "raj_mess",
+            "distance": 700
+        },
+        {
+            "source": "manet",
+            "target": "rk_restaurant",
+            "distance": 400
+        },
+        {
+            "source": "manet",
+            "target": "sangeent_kala_academy",
+            "distance": 500
+        },
+        {
+            "source": "manet",
+            "target": "sofa",
+            "distance": 1200
+        },
+        {
+            "source": "manet",
+            "target": "sovs",
+            "distance": 550
+        },
+        {
+            "source": "manet",
+            "target": "sport_complex",
+            "distance": 750
+        },
+        {
+            "source": "manet",
+            "target": "staff_quarters",
+            "distance": 750
+        },
+        {
+            "source": "manet",
+            "target": "tuck_shop_ground",
+            "distance": 400
+        },
+        {
+            "source": "manet",
+            "target": "utk_auditorium",
+            "distance": 850
+        },
+        {
+            "source": "manet",
+            "target": "vajraged_hostel",
+            "distance": 650
+        },
+        {
+            "source": "manet",
+            "target": "vijaydurg_hostel",
+            "distance": 130
+        },
+        {
+            "source": "manet_basketball_court",
+            "target": "nsq_hostel",
+            "distance": 850
+        },
+        {
+            "source": "manet_basketball_court",
+            "target": "raj_auditorium",
+            "distance": 400
+        },
+        {
+            "source": "manet_basketball_court",
+            "target": "raj_mess",
+            "distance": 600
+        },
+        {
+            "source": "manet_basketball_court",
+            "target": "rk_restaurant",
+            "distance": 300
+        },
+        {
+            "source": "manet_basketball_court",
+            "target": "sangeent_kala_academy",
+            "distance": 400
+        },
+        {
+            "source": "manet_basketball_court",
+            "target": "sofa",
+            "distance": 1100
+        },
+        {
+            "source": "manet_basketball_court",
+            "target": "sovs",
+            "distance": 450
+        },
+        {
+            "source": "manet_basketball_court",
+            "target": "sport_complex",
+            "distance": 650
+        },
+        {
+            "source": "manet_basketball_court",
+            "target": "staff_quarters",
+            "distance": 650
+        },
+        {
+            "source": "manet_basketball_court",
+            "target": "tuck_shop_ground",
+            "distance": 300
+        },
+        {
+            "source": "manet_basketball_court",
+            "target": "utk_auditorium",
+            "distance": 750
+        },
+        {
+            "source": "manet_basketball_court",
+            "target": "vajraged_hostel",
+            "distance": 600
+        },
+        {
+            "source": "manet_basketball_court",
+            "target": "vijaydurg_hostel",
+            "distance": 60
+        },
+        {
+            "source": "nsq_hostel",
+            "target": "raj_auditorium",
+            "distance": 750
+        },
+        {
+            "source": "nsq_hostel",
+            "target": "raj_mess",
+            "distance": 950
+        },
+        {
+            "source": "nsq_hostel",
+            "target": "rk_restaurant",
+            "distance": 700
+        },
+        {
+            "source": "nsq_hostel",
+            "target": "sangeent_kala_academy",
+            "distance": 700
+        },
+        {
+            "source": "nsq_hostel",
+            "target": "sofa",
+            "distance": 950
+        },
+        {
+            "source": "nsq_hostel",
+            "target": "sovs",
+            "distance": 950
+        },
+        {
+            "source": "nsq_hostel",
+            "target": "sport_complex",
+            "distance": 1400
+        },
+        {
+            "source": "nsq_hostel",
+            "target": "staff_quarters",
+            "distance": 1400
+        },
+        {
+            "source": "nsq_hostel",
+            "target": "tuck_shop_ground",
+            "distance": 550
+        },
+        {
+            "source": "nsq_hostel",
+            "target": "utk_auditorium",
+            "distance": 80
+        },
+        {
+            "source": "nsq_hostel",
+            "target": "vajraged_hostel",
+            "distance": 270
+        },
+        {
+            "source": "nsq_hostel",
+            "target": "vijaydurg_hostel",
+            "distance": 800
+        },
+        {
+            "source": "raj_auditorium",
+            "target": "raj_mess",
+            "distance": 260
+        },
+        {
+            "source": "raj_auditorium",
+            "target": "rk_restaurant",
+            "distance": 400
+        },
+        {
+            "source": "raj_auditorium",
+            "target": "sangeent_kala_academy",
+            "distance": 190
+        },
+        {
+            "source": "raj_auditorium",
+            "target": "sofa",
+            "distance": 1200
+        },
+        {
+            "source": "raj_auditorium",
+            "target": "sovs",
+            "distance": 210
+        },
+        {
+            "source": "raj_auditorium",
+            "target": "sport_complex",
+            "distance": 650
+        },
+        {
+            "source": "raj_auditorium",
+            "target": "staff_quarters",
+            "distance": 650
+        },
+        {
+            "source": "raj_auditorium",
+            "target": "tuck_shop_ground",
+            "distance": 260
+        },
+        {
+            "source": "raj_auditorium",
+            "target": "utk_auditorium",
+            "distance": 650
+        },
+        {
+            "source": "raj_auditorium",
+            "target": "vajraged_hostel",
+            "distance": 450
+        },
+        {
+            "source": "raj_auditorium",
+            "target": "vijaydurg_hostel",
+            "distance": 350
+        },
+        {
+            "source": "raj_mess",
+            "target": "rk_restaurant",
+            "distance": 650
+        },
+        {
+            "source": "raj_mess",
+            "target": "sangeent_kala_academy",
+            "distance": 350
+        },
+        {
+            "source": "raj_mess",
+            "target": "sofa",
+            "distance": 1400
+        },
+        {
+            "source": "raj_mess",
+            "target": "sovs",
+            "distance": 200
+        },
+        {
+            "source": "raj_mess",
+            "target": "sport_complex",
+            "distance": 500
+        },
+        {
+            "source": "raj_mess",
+            "target": "staff_quarters",
+            "distance": 500
+        },
+        {
+            "source": "raj_mess",
+            "target": "tuck_shop_ground",
+            "distance": 500
+        },
+        {
+            "source": "raj_mess",
+            "target": "utk_auditorium",
+            "distance": 900
+        },
+        {
+            "source": "raj_mess",
+            "target": "vajraged_hostel",
+            "distance": 700
+        },
+        {
+            "source": "raj_mess",
+            "target": "vijaydurg_hostel",
+            "distance": 600
+        },
+        {
+            "source": "rk_restaurant",
+            "target": "sangeent_kala_academy",
+            "distance": 400
+        },
+        {
+            "source": "rk_restaurant",
+            "target": "sofa",
+            "distance": 1200
+        },
+        {
+            "source": "rk_restaurant",
+            "target": "sovs",
+            "distance": 600
+        },
+        {
+            "source": "rk_restaurant",
+            "target": "sport_complex",
+            "distance": 950
+        },
+        {
+            "source": "rk_restaurant",
+            "target": "staff_quarters",
+            "distance": 950
+        },
+        {
+            "source": "rk_restaurant",
+            "target": "tuck_shop_ground",
+            "distance": 170
+        },
+        {
+            "source": "rk_restaurant",
+            "target": "utk_auditorium",
+            "distance": 600
+        },
+        {
+            "source": "rk_restaurant",
+            "target": "vajraged_hostel",
+            "distance": 450
+        },
+        {
+            "source": "rk_restaurant",
+            "target": "vijaydurg_hostel",
+            "distance": 270
+        },
+        {
+            "source": "sangeent_kala_academy",
+            "target": "sofa",
+            "distance": 1200
+        },
+        {
+            "source": "sangeent_kala_academy",
+            "target": "sovs",
+            "distance": 350
+        },
+        {
+            "source": "sangeent_kala_academy",
+            "target": "sport_complex",
+            "distance": 800
+        },
+        {
+            "source": "sangeent_kala_academy",
+            "target": "staff_quarters",
+            "distance": 800
+        },
+        {
+            "source": "sangeent_kala_academy",
+            "target": "tuck_shop_ground",
+            "distance": 220
+        },
+        {
+            "source": "sangeent_kala_academy",
+            "target": "utk_auditorium",
+            "distance": 600
+        },
+        {
+            "source": "sangeent_kala_academy",
+            "target": "vajraged_hostel",
+            "distance": 400
+        },
+        {
+            "source": "sangeent_kala_academy",
+            "target": "vijaydurg_hostel",
+            "distance": 400
+        },
+        {
+            "source": "sofa",
+            "target": "sovs",
+            "distance": 1300
+        },
+        {
+            "source": "sofa",
+            "target": "sport_complex",
+            "distance": 1400
+        },
+        {
+            "source": "sofa",
+            "target": "staff_quarters",
+            "distance": 1400
+        },
+        {
+            "source": "sofa",
+            "target": "tuck_shop_ground",
+            "distance": 1000
+        },
+        {
+            "source": "sofa",
+            "target": "utk_auditorium",
+            "distance": 850
+        },
+        {
+            "source": "sofa",
+            "target": "vajraged_hostel",
+            "distance": 800
+        },
+        {
+            "source": "sofa",
+            "target": "vijaydurg_hostel",
+            "distance": 1100
+        },
+        {
+            "source": "sovs",
+            "target": "sport_complex",
+            "distance": 500
+        },
+        {
+            "source": "sovs",
+            "target": "staff_quarters",
+            "distance": 500
+        },
+        {
+            "source": "sovs",
+            "target": "tuck_shop_ground",
+            "distance": 450
+        },
+        {
+            "source": "sovs",
+            "target": "utk_auditorium",
+            "distance": 850
+        },
+        {
+            "source": "sovs",
+            "target": "vajraged_hostel",
+            "distance": 650
+        },
+        {
+            "source": "sovs",
+            "target": "vijaydurg_hostel",
+            "distance": 500
+        },
+        {
+            "source": "sport_complex",
+            "target": "staff_quarters",
+            "distance": 50
+        },
+        {
+            "source": "sport_complex",
+            "target": "tuck_shop_ground",
+            "distance": 900
+        },
+        {
+            "source": "sport_complex",
+            "target": "utk_auditorium",
+            "distance": 1300
+        },
+        {
+            "source": "sport_complex",
+            "target": "vajraged_hostel",
+            "distance": 1100
+        },
+        {
+            "source": "sport_complex",
+            "target": "vijaydurg_hostel",
+            "distance": 700
+        },
+        {
+            "source": "staff_quarters",
+            "target": "tuck_shop_ground",
+            "distance": 900
+        },
+        {
+            "source": "staff_quarters",
+            "target": "utk_auditorium",
+            "distance": 1300
+        },
+        {
+            "source": "staff_quarters",
+            "target": "vajraged_hostel",
+            "distance": 1100
+        },
+        {
+            "source": "staff_quarters",
+            "target": "vijaydurg_hostel",
+            "distance": 700
+        },
+        {
+            "source": "tuck_shop_ground",
+            "target": "utk_auditorium",
+            "distance": 450
+        },
+        {
+            "source": "tuck_shop_ground",
+            "target": "vajraged_hostel",
+            "distance": 280
+        },
+        {
+            "source": "tuck_shop_ground",
+            "target": "vijaydurg_hostel",
+            "distance": 250
+        },
+        {
+            "source": "utk_auditorium",
+            "target": "vajraged_hostel",
+            "distance": 190
+        },
+        {
+            "source": "utk_auditorium",
+            "target": "vijaydurg_hostel",
+            "distance": 700
+        },
+        {
+            "source": "vajraged_hostel",
+            "target": "vijaydurg_hostel",
+            "distance": 550
+        }
+    ]
+}
